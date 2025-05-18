@@ -1,0 +1,5 @@
+Resolusi 2025
+- Konsisten Belajar front-end developer Selama 4 jam sehari
+- Belajar HTML
+- Belajar CSS 
+- Belajar Javascript
