@@ -4,3 +4,4 @@ Resolusi 2025
 - Belajar CSS 
 - Belajar Javascript
 - Belajar Bootstrap
+- Belajar komunikasi
