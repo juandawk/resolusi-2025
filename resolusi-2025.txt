@@ -5,3 +5,4 @@ Resolusi 2025
 - Belajar Javascript
 - Belajar Bootstrap
 - belajar github
+- belajar manual-brew
