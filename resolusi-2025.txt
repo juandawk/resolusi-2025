@@ -4,4 +4,4 @@ Resolusi 2025
 - Belajar CSS 
 - Belajar Javascript
 - Belajar Bootstrap
-- belajar dasar-dasar logika
+- belajar github
